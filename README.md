@@ -5,7 +5,7 @@ Initializing the ReadMe with information on PA0. Subject to change with the next
 - [x] Make a list
 - [ ] Divide a Number by Zero
 - [x] <img src="https://i.kym-cdn.com/entries/icons/facebook/000/028/207/Screen_Shot_2019-01-17_at_4.22.43_PM.jpg" alt="Meme" width="180"/>
-![Uname CMD](Vagrant_uname.png)
+![Uname CMD](Vagrant_Uname.png)
 
 * [**Github Leaderboard**](https://github.com/EvanLi/Github-Ranking/blob/master/README.md)
   * This
