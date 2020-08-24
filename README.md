@@ -3,6 +3,7 @@
 
 * [**Github Leaderboard**](https://github.com/EvanLi/Github-Ranking/blob/master/README.md)
 
-* [**Clojure Overtone**](https://github.com/overtone/overtone)
-* [__Python The F*ck__](https://github.com/nvbn/thefuck)
+* [**Clojure: Overtone**](https://github.com/overtone/overtone)
+
+* [__Python: The F*ck__](https://github.com/nvbn/thefuck)
 
