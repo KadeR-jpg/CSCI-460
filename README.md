@@ -28,6 +28,6 @@ It looks like running the uname -a command in the vagrant shell tells us what li
 * __cat info:__ concatenate allows us to display the contents of a file.
 * __sudo lshw -html:__ gives us a detailed report on hardware. I'm assuming the html flag allows us to retrieve .html files.
 * How to get more information w/out google? Man pages!
-![CMD Man Page](lshw_man_page.png)
+* ![CMD Man Page](lshw_man_page.png)
 * I personally love the man pages because i am not super familiar with the unix cmd line so just typing man grep to get a quick overview of what/where/when and why to use it is super helpful and probably the most used tool for me so far.
 
