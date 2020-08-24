@@ -4,7 +4,6 @@ Top Level Repo for everything in Operating Systems
 - [x] Make a list
 - [ ] Divide a Number by Zero
 <a href="url"><img src="https://i.kym-cdn.com/entries/icons/facebook/000/028/207/Screen_Shot_2019-01-17_at_4.22.43_PM.jpg" align="left" height="48" width="48" ></a>
- ![WTTI](https://i.kym-cdn.com/entries/icons/facebook/000/028/207/Screen_Shot_2019-01-17_at_4.22.43_PM.jpg = 100x100)
 
 
 * [**Github Leaderboard**](https://github.com/EvanLi/Github-Ranking/blob/master/README.md)
