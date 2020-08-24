@@ -6,7 +6,7 @@ Initializing the ReadMe with information on PA0. Subject to change with the next
 - [ ] Divide a Number by Zero
 - [x] <img src="https://i.kym-cdn.com/entries/icons/facebook/000/028/207/Screen_Shot_2019-01-17_at_4.22.43_PM.jpg" alt="Meme" width="180"/>
 
-### Task 2
+### Task 2: Markdown & Git
 * [**Github Leaderboard**](https://github.com/EvanLi/Github-Ranking/blob/master/README.md)
  * This
 
@@ -14,6 +14,9 @@ Initializing the ReadMe with information on PA0. Subject to change with the next
 
 * [__Python: The F*ck__](https://github.com/nvbn/thefuck)
 
-
+### Task 3: Vagrant
+It looks like running the uname -a command in the vagrant shell tells us what linux version is running on our VM.
 ![Uname CMD](Vagrant_Uname.png)
+
+### Task 4: Command Line
 
