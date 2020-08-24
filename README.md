@@ -8,5 +8,5 @@ Top Level Repo for everything in Operating Systems
 
 * [**Clojure: Overtone**](https://github.com/overtone/overtone)
 
-* [__Python: The F*ck__](https://github.com/nvbn/thefuck)
+* [__Python: The ~F*ck~__](https://github.com/nvbn/thefuck)
 
